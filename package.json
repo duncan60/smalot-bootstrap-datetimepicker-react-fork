@@ -1,0 +1,12 @@
+{
+  "name"           : "smalot-bootstrap-datetimepicker-react-fork",
+  "description"    : "fork smalot-bootstrap-datetimepicker to react",
+  "dependencies"   : {},
+  "author"         : "duncan",
+  "email"          : "tmduncan60@gmail.com",
+  "keywords"       : [],
+  "main"           : "js/bootstrap-datetimepicker.js",
+  "version"        : "0.0.1",
+  "type"           : "git",
+  "url"            : "https://github.com/duncan60/smalot-bootstrap-datetimepicker-react-fork"
+}
