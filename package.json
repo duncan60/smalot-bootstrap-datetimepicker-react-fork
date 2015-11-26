@@ -1,6 +1,6 @@
 {
   "name": "smalot-bootstrap-datetimepicker-react-fork",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "fork smalot-bootstrap-datetimepicker to react",
   "license": "MIT",
   "main": "js/bootstrap-datetimepicker.js",
