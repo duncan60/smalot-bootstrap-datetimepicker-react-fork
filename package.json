@@ -6,7 +6,7 @@
   "email"          : "tmduncan60@gmail.com",
   "keywords"       : [],
   "main"           : "js/bootstrap-datetimepicker.js",
-  "version"        : "0.0.1",
+  "version"        : "0.0.2",
   "type"           : "git",
   "url"            : "https://github.com/duncan60/smalot-bootstrap-datetimepicker-react-fork"
 }
