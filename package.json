@@ -8,5 +8,6 @@
   "main"           : "js/bootstrap-datetimepicker.js",
   "version"        : "0.0.2",
   "type"           : "git",
-  "url"            : "https://github.com/duncan60/smalot-bootstrap-datetimepicker-react-fork"
+  "url"            : "https://github.com/duncan60/smalot-bootstrap-datetimepicker-react-fork",
+  "repository"     : "https://github.com/duncan60/smalot-bootstrap-datetimepicker-react-fork"
 }
